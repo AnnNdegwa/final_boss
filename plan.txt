@@ -1,1 +1,3 @@
-alpha plan
+ HEAD
+alpha and beta plan
+ beta
